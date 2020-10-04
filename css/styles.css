@@ -1,0 +1,37 @@
+body, html {
+    margin: 0;
+    font-family: "Hammersmith One";
+    font-size: 20pt;
+}
+
+#container {
+    height: 60px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#bar {
+    background-color: rgba(214, 157, 115);
+    height: 10px;
+    position: absolute;
+    top: 0px;
+    vertical-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 0px;
+}
+
+#solidBar {
+    background-color: rgba(254, 249, 230, 1);
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+    top: 10px;
+    text-align: center;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius: 15px;
+}
+
+#puppyText {
+    color: rgba(214, 157, 115);
+    background-color: rgba(0, 0, 0, 0);
+}
