@@ -16,19 +16,15 @@ body, html {
     position: absolute;
     top: 0px;
     vertical-align: center;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 0px;
+    border-radius: 20px;
 }
 
 #solidBar {
     background-color: rgba(254, 249, 230, 1);
-    height: 50px;
-    line-height: 50px;
-    position: relative;
-    top: 10px;
+    height: 60px;
+    line-height: 60px;
     text-align: center;
-    border-bottom-left-radius:15px;
-    border-bottom-right-radius: 15px;
+    border-radius: 10px;
 }
 
 #puppyText {
