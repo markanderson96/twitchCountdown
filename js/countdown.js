@@ -22,7 +22,7 @@ var x = setInterval(function () {
     // if count down is finished, write some text and set border
     if (distance <= 0) {
         clearInterval(x);
-        document.getElementById("puppyText").innerHTML = "PUPPY TIME";
+        document.getElementById("puppyText").innerHTML = "PUPPY TIME!";
     }
     updateBar(distance, totalDistance);
 }, 1000); // <- this is the update interval 
