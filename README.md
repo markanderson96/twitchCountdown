@@ -10,4 +10,4 @@ May add custom commands/interface in the future but for now the style sheet cont
 
 ## "Installation"
 
-You don't really install this, just download the ZIP (got to the green code button at top of page), place where convenient and add as a browser source in OBS/SLOBS/etc..
+You don't really install this, just download the ZIP (got to the green code button at top of page), place where convenient and add 'index.html'as a browser source in OBS/SLOBS/etc..
